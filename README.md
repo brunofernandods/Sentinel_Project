@@ -63,7 +63,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/brunofernandods/Sentinel_Project
-cd sentinel
+cd sentinel_project
 ```
 Install the dependencies:
 ```bash
@@ -144,7 +144,7 @@ Clone o repositório para sua máquina local:
 
 ```bash
 git https://github.com/brunofernandods/Sentinel_Project
-cd sentinel
+cd sentinel_project
 ```
 Instale as dependências:
 ```bash
