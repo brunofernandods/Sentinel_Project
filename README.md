@@ -70,6 +70,11 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
+Install PyTorch+CUDA:
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
+
 Run the application:
 ```bash
 python main.py
