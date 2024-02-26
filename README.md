@@ -155,7 +155,10 @@ Instale as dependências:
 ```bash
 pip install -r requirements.txt
 ```
-
+Install PyTorch+CUDA:
+```bash
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+```
 Execute o aplicativo:
 ```bash
 python main.py
