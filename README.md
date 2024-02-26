@@ -143,7 +143,7 @@ CREATE TABLE cameras (
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/SchmittAdrian/Sentinel.git
+git https://github.com/brunofernandods/Sentinel_Project
 cd sentinel
 ```
 Instale as dependências:
